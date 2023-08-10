@@ -32,6 +32,7 @@ In alphabetical order:
 * [HostGalaxy](https://www.hostgalaxy.com)
 * [HostGator](http://www.hostgator.com)
 * [Hostico](https://hostico.ro)
+* [Hosting.XYZ](https://www.hosting.xyz)
 * [Hostinger](https://www.hostinger.com)
 * [HostPresto](https://hostpresto.com)
 * [HostRiver](https://hostriver.ro/gazduire-wordpress)
